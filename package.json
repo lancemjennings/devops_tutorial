@@ -1,0 +1,22 @@
+{
+  "name": "Lance Test App",
+  "version": "1.0.0",
+  "description": "A Hello World HTTP server",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/getintodevops/masterclass-codeexamples/"
+  },
+  "keywords": [
+    "node",
+    "docker",
+    "dockerfile"
+  ],
+  "author": "lancemjennings@gmail.com",
+  "license": "MIT",
+  "devDependencies": { "test": ">=0.6.0" }
+}
